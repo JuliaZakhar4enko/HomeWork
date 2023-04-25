@@ -1,0 +1,15 @@
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\bin\Debug\net6.0\Task_004.exe
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\bin\Debug\net6.0\Task_004.deps.json
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\bin\Debug\net6.0\Task_004.runtimeconfig.json
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\bin\Debug\net6.0\Task_004.dll
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\bin\Debug\net6.0\Task_004.pdb
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.csproj.AssemblyReference.cache
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.AssemblyInfoInputs.cache
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.AssemblyInfo.cs
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.dll
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\refint\Task_004.dll
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.pdb
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\Task_004.genruntimeconfig.cache
+C:\Users\Julia\Documents\GeekBrain\C#sharp\HomeWork\Task_004\obj\Debug\net6.0\ref\Task_004.dll
