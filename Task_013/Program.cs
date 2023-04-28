@@ -8,13 +8,16 @@
 Console.WriteLine("Введите  число ");
 int num = Convert.ToInt32(Console.ReadLine());
 
+if (num < 100) 
+{Console.WriteLine("Третьей цифры нет");
+}
+
      while (num>999)
 {
     num=num/10;
-    
+
     Console.WriteLine(num %10);
-    }
-    if (num < 100);
-{
-     Console.WriteLine("Третьей цифры нет");
-    }
+}
+  
+
+     
